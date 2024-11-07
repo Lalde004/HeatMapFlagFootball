@@ -4,7 +4,7 @@ Este repositorio contiene el código y los recursos para visualizar y analizar d
 
 ## 📁 Contenidos
 
-- **`HeatMapFlagFootball.html`**: Mapa de calor interactivo para visualizar zonas de actividad de los jugadores.
+- **`HeatMapFlagFootball.ipynb`**: Mapa de calor interactivo para visualizar zonas de actividad de los jugadores.
 - **Análisis de Datos**: Perspectivas derivadas de los movimientos de los jugadores y datos del juego.
 - **Herramientas de Visualización**: JavaScript y CSS para renderizar mapas de calor de manera interactiva.
 
